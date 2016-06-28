@@ -4,8 +4,8 @@ class Tabterm < Formula
   desc "What if your browser's new tab page was a terminal? Based on Chrome OS's hterm"
   homepage "https://github.com/dbkaplun/tabterm"
   head "https://github.com/dbkaplun/tabterm.git"
-  url "https://registry.npmjs.org/tabterm/-/tabterm-1.2.0.tgz"
-  sha256 "ac6aac4260039e26ca0118e2c7853f2c52c683dfd6ae7fbdfe10b7a33deb5a9b"
+  url "https://registry.npmjs.org/tabterm/-/tabterm-1.2.2.tgz"
+  sha256 "5d3937a8e4c8ddc7ce9d8d7e5503b215a1bafb340346304e36a750fcf0a6b02d"
 
   depends_on "node"
   def install
